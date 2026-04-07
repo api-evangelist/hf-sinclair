@@ -1,7 +1,12 @@
 aid: hf-sinclair
-url: https://raw.githubusercontent.com/api-evangelist/hf-sinclair/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/hf-sinclair/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.hf-sinclair.com
+description: >-
+  HF Sinclair is an independent energy company that produces and markets gasoline,
+  diesel, jet fuel, specialty lubricant products, and renewable diesel fuel through
+  refineries and a brand network of branded fuel stations.
