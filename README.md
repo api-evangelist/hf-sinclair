@@ -1,22 +1,22 @@
 # HF Sinclair (hf-sinclair)
-HF Sinclair is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for HF Sinclair.
+HF Sinclair is an independent energy company that produces and markets gasoline, diesel, jet fuel, specialty lubricant products, and renewable diesel fuel through refineries and a brand network of branded fuel stations.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/hf-sinclair/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
+- **Type:** Index
 - **Position:** Consuming
 - **Access:** 3rd-Party
 
 ## Tags:
 
- - Fortune 500
+ - Energy, Refining, Fuel, Lubricants, Renewable Diesel, Fortune 500
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -28,6 +28,6 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
