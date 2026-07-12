@@ -20,6 +20,8 @@ tags:
   - Renewable Diesel
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/hf-sinclair-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/hf-sinclair
   - type: Website
